@@ -1,0 +1,29 @@
+# 📊 Fundamental Mathematics for Data Science
+
+A comprehensive collection of Python implementations exploring core mathematical concepts essential for data science, including descriptive statistics, probability, inferential statistics, linear algebra, and calculus.
+
+## 🎯 Project Overview
+
+This repository demonstrates practical applications of fundamental mathematical concepts through real-world data analysis. Each section builds intuition through hands-on coding with authentic datasets.
+
+## 📚 Topics Covered
+
+- **Descriptive Statistics**: Central tendency, dispersion, and data summarization
+- **Probability**: Poisson distributions, sampling distributions, and random processes
+- **Inferential Statistics**: Hypothesis testing and statistical inference
+- **Linear Algebra**: Matrix operations and image transformations
+- **Calculus**: Numerical differentiation and limit approximations
+
+## 🛠️ Technologies
+
+- Python 3.x
+- NumPy, Pandas, SciPy
+- Matplotlib, Seaborn
+- Jupyter Notebooks
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/yourusername/Fundamental-Math-for-Data-Science.git
+cd Fundamental-Math-for-Data-Science
+pip install -r requirements.txt
